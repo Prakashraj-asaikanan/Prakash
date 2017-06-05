@@ -1,5 +1,5 @@
 import java.io.*;
-public class leap
+public class hello
 {
 public static void main(String args[])
 {
