@@ -1,5 +1,5 @@
 import java.util.*;
-public class digi
+public class digit1
 {
     public static void main(String args[])
     {
