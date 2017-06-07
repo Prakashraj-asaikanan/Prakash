@@ -1,5 +1,5 @@
 import java.util.*;
-public class rev
+public class digi
 {
     public static void main(String args[])
     {
