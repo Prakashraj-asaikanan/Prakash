@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Unique
+public class Uniq
 {
     public static void main(String args[])
     {
