@@ -20,12 +20,21 @@ public class Uniq
         {
             for(k=j+1;k<N;k++)
             {
-                if(A[j]!=A[k])
+                if(A[j]==A[k])
                 {
-                    c=A[j];
+                    A[j]=0;
+                    A[k]=0;
                 }
                 
             }
             
-        }    
-         System.out.println(c);
+        } 
+        for(int l=0;l<N;l++)
+        {
+            if(A[l]!=0)
+            {
+         System.out.println(A[l]);
+    }}
+        
+    }
+}
